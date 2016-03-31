@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">猜拳</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">开始猜拳！！</string>
+    <string name="edit">请出拳！！</string>
+    <string name="game_rule">游戏规则：</string>
+    <string name="game_rule_detail">玩家每次可以选择“石头”，“剪刀”，“布”，系统随机输出结果，进行比较，玩家获胜则获得10点积分，反之则扣除10点积分，新玩家每次的起始积分为0...小帅哥快来玩呀~</string>
+    <string name="wealth_value">当前积分：</string>
+    <string name="value">0</string>
+    <string name="result">玩家：剪刀VS系统：石头</string>
+    <string name="final_result">输</string>
+    <string name="history">历史记录：</string>
+    
+    
+    
+    
+</resources>
