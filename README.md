@@ -1,5 +1,10 @@
 # FingerGuessing
 猜拳游戏，包括对猜拳次数的统计
+
+/*
+*主界面代码
+*/
+
 package com.example.fingerguessing;
 
 import java.util.Random;
